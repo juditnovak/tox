@@ -551,7 +551,7 @@ Base options
 .. conf::
    :keys: set_env, setenv
 
-   A dictionary of environment variables to set when running commands in the tox environment. 
+   A dictionary of environment variables to set when running commands in the tox environment.
 
    In addition, there is an option to include an existing environment file. See the different syntax for TOML and INI below.
 
